@@ -3,4 +3,5 @@
 
 </div>
 
+<h3 align="center">Lost countless times. Never lost the will to try.</h3>
 
