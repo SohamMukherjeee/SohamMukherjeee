@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/SohamMukherjeee/SohamMukherjeee/blob/main/messi.gif" />
+  <img align="center" width=550px height=150px alt="side_sticker" src="https://github.com/SohamMukherjeee/SohamMukherjeee/blob/main/messi.gif" />
 
 </div>
 
